@@ -1,0 +1,17 @@
+{
+  "name": "unrun-import-ramda-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm -r build"
+  },
+  "keywords": [],
+  "author": "Anna Bocharova",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "unrun": "^0.2.13"
+  },
+  "packageManager": "pnpm@10.24.0"
+}
