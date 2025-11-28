@@ -10,6 +10,12 @@ The `example` is a package that utilizes the function provided by `src`.
 
 # Demo
 
+Install dependencies:
+
+```
+pnpm i
+```
+
 Run the following command to demonstrate the issue:
 
 ```
