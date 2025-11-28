@@ -7,6 +7,7 @@ The monorepo contains two packages:
 
 The `src` is a package using `ramda` and exports a simple function.
 The `example` is a package that utilizes the function provided by `src`.
+Both packages are ESM.
 
 # Demo
 
